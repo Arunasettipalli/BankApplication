@@ -1,3 +1,5 @@
+#BANK APPLICATION
+
 "COMPANY" :NATIVESOFTTECH
 
 "NAME" :Settipalli Aruna
@@ -10,4 +12,5 @@
 
 "MENTOR" :NATIVE TEAM
 
-RESULT:
+#RESULT:
+![Image](https://github.com/user-attachments/assets/3649b9f2-4ffe-409a-b3e2-78bfc13717ad)
